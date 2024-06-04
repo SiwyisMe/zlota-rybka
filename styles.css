@@ -168,7 +168,7 @@ nav {
 }
 
 .header__container h1 {
-  font-size: 3.5rem;
+  font-size: 4rem;
   font-weight: 500;
   line-height: 4.5rem;
   color: var(--white);
@@ -276,6 +276,7 @@ nav {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
 }
 
 .service__container {
